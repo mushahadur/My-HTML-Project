@@ -1,0 +1,162 @@
+*{margin:0; padding:0; outline:0}
+body{font-family:arial; 
+font-size:14px; 
+line-height:18px;
+color:#333;
+background:#EAE7D3;}
+.template{width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
+.headersection{height:77px}
+.header{background:#333333;}
+.headerleft{width:450px;color:#fff;float:left;}
+.headerleft h2{font-size:40px;line-height:65px;
+padding-left:50px;}
+
+.headerright{
+	padding-top:28px;
+	width:510px;
+	float:right;
+	color:#fff;}
+.headerright a{color:#fff;text-decoration:none;font-size:17px;
+font-weight:bold;}
+.headerright a:hover,#active{color:#39BEFF;}
+
+.mainsection{background:#FFFFFF;}
+.slogansection{margin-left:50px;
+margin-right:50px;
+margin-top:30px;
+padding-bottom:28px;
+border-bottom: 2px dotted #A6A6A6;
+}
+.slogansection h2{font-size:45px;
+line-height:58px;
+color:#000;}
+.slogansection h3{color:#B3B4B7;
+font-size:36px;
+line-height:35px;}
+
+.description{
+	border-bottom:2px dotted #A6A6A6;
+	color:#000000;
+	font-size:26px;
+	line-height:30px;
+	margin:28px 50px 50px;
+	padding-bottom: 30px;
+}
+.description p{}
+
+.contensection{margin-bottom:20px;padding-bottom:20px;}
+
+.servic {
+    background: #00adef none repeat scroll 0 0;
+    box-shadow:8px 7px 10px 10px #cfcfcf;
+	float: left;
+    margin-left: 52px;
+    padding: 20;
+    display: block;
+    width: 212x;
+    width: 208px;
+    padding: 22px;
+}
+
+.servic h2{border-bottom:1px dotted #fff;
+color:#fff;
+font-size:28px;
+margin-bottom:15px;
+padding-bottom:15px;
+text-align:center;}
+.servic p{color:#fff;
+font-size:14px;
+line-height:22px;
+text-align:center;}
+
+.redmode{background:#0076a4 none repeat scroll 0 0;
+margin-top:20px;
+padding:10px;
+text-align:center;}
+.redmode a{color:#ddd;
+font-size:13px;
+font-weight:bold;
+text-decoration:none;
+text-transform:uppercase;}
+.redmode a:hover{}
+
+.mainbottom{
+	border-bottom:2px dotted #cccccc;
+	border-top:2px dotted #cccccc;
+	margin:30px 50px 20px;
+	padding-bottom:30px;
+	padding-top:30px;
+}
+.clientsection{
+	border-right:2px dotted #ccc;
+    float:left;
+    margin-right:30px;
+	padding-right:30px;
+   width:398px;
+}
+.clientsection h2{
+	color:#666;
+	font-size:25px;
+	line-height:30px;
+	
+}
+
+.testimonial{
+	margin-top:20px;
+}
+.clintimage{
+	float:left;
+	margin-right:20px;
+	width:70px;}
+.clintimage img{width:70px;
+height:75px;}
+
+.clintdata{
+	float:left;
+	width:305px;}
+.clintdata p{
+	color:#666;
+}
+.clintdata a{color:#00adef;
+text-decoration:none;}
+
+.clientname{font-weight:bold;
+color:#000 !improtant;
+margin-top:5px;}
+.projectsection{width:400px;float:right;}
+.projectsection h2{
+	color:#666;
+	font-size:25px;
+	line-height:30px;
+	
+}
+.projectsection h3{
+	color:#999;
+	margin-bottom:8px;
+	margin-top:5px;
+}
+.projectsection img{
+	border:1px; solid #ddd;
+	border-radius:3px;
+	margin-bottom:8px;
+	width:398px;
+	height:180px;
+}
+.projectsection p{
+	color:#666;
+	margin-bottom:10px;
+}
+.projectsection a{
+	text-decoration:none;
+	color:#00adef;
+	font-size:16px;
+	
+}
+
+.fottersection{background:#FFFFFF;}
+.fottersection p{
+	color:#999;
+	margin-bottom:20px;
+	margin-left:50px;
+}
